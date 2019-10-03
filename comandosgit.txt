@@ -26,3 +26,7 @@ Te permite estar en una version anterior del archivo sin tener que eliminar los 
 
 >git checkout master <nombre del archivo>
 Te permite volver a la ultima version del archivo
+
+>git reset HEAD
+Eliminar los archivos del status Staging antes de hacer el commit
+
