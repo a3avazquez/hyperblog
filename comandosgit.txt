@@ -1,0 +1,22 @@
+Comandos GIT:
+
+>git clone <url>
+Extrae un repositorio especifico de git
+
+>git add <archivo/locación/todo>
+Agregar y prepara los archivos para la creación de una versión
+
+>git commit -m "<comentario>"
+Sube la versión y agrega un comentario como buena practica
+
+>git status
+Verifica el status de la rama en la que se trabajando
+
+>git log <archivo/locación/todo>
+Te hace un listado de las versiones del directorio/archivo/todo
+
+>git log --stat <archivo/locación/todo>
+Te hace un listado de las versiones del directorio/archivo/todo y ademas te hace un listado de archivos en los que te cuenta los cambios que han ocurrido en ellos
+
+>git reset <id del log>
+Regresa todos los archivos a una version anterior
