@@ -33,3 +33,5 @@ Te permite volver a la ultima version del archivo
 >git reset HEAD
 Eliminar los archivos del status Staging antes de hacer el commit
 
+>git push(cuando hay un servidor en el cual esta el proyecto principal)
+Cuando subimos los commits al servidor donde esta el proyecto principal
