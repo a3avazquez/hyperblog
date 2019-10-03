@@ -12,6 +12,9 @@ Sube la versión y agrega un comentario como buena practica
 >git status
 Verifica el status de la rama en la que se trabajando
 
+>git show <archivo>
+Te permite ver los cambios o eliminaciones de las lineas en el archivo
+
 >git log <archivo/locación/todo>
 Te hace un listado de las versiones del directorio/archivo/todo
 
