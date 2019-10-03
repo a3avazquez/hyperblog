@@ -18,5 +18,11 @@ Te hace un listado de las versiones del directorio/archivo/todo
 >git log --stat <archivo/locación/todo>
 Te hace un listado de las versiones del directorio/archivo/todo y ademas te hace un listado de archivos en los que te cuenta los cambios que han ocurrido en ellos
 
->git reset <id del log>
+>git reset <id del commit>
 Regresa todos los archivos a una version anterior
+
+>git checkout <id del commit> <nombre de archivo>
+Te permite estar en una version anterior del archivo sin tener que eliminar los commits posteriores
+
+>git checkout master <nombre del archivo>
+Te permite volver a la ultima version del archivo
