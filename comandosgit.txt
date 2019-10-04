@@ -55,6 +55,8 @@ Este comando agregar al folder origin nuestro proyecto, el cual se reflejara en 
 
 >git pull origin master
 Trae el proyecto del repositorio a la rama master donde master es el nombre de la rama
+    >git pull origin master --allow-unrelated-histories
+    Permite bajar proyecto de manera forzada aunque no esten en tu equipo local
 
 >git config -l
 Te despliega la configuracion actual del git
