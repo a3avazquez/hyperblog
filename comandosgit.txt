@@ -75,3 +75,11 @@ Esto agrega un tag de un version especifica del proyecto
 
 >git tag
 comando para ver los tags existentes
+
+>git push origin --tags
+Con este comando subimos los tags locales a el repositorio
+
+>git push origin :refs/tags/<nombre del tag>
+Con este comando hacemos referencia a la sincronización de una eliminació para que se refleje en el servidor del repositorio
+
+
