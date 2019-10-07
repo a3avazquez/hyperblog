@@ -60,3 +60,8 @@ Trae el proyecto del repositorio a la rama master donde master es el nombre de l
 
 >git config -l
 Te despliega la configuracion actual del git
+
+>ssh-keygen -t rsa -b 4096 "<correo>"
+Creacion de una llave local SSH
+
+
