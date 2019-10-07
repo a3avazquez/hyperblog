@@ -32,3 +32,13 @@ body{
     font-weight:normal;
     margin:0 0 0 0 .5em;
 }
+
+/* footer */
+footer{
+    position:relative;
+    bottom:0;
+    text-align:center;
+    background-color:#b08400;
+    color:white;
+    padding:10px;
+}
