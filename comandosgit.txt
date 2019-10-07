@@ -63,6 +63,3 @@ Te despliega la configuracion actual del git
 
 >ssh-keygen -t rsa -b 4096 "<correo>"
 Creacion de una llave local SSH
-
-
-
