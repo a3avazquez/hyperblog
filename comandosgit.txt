@@ -71,7 +71,7 @@ Comando para ver todos los logs de una manera mas intuitiva
 Crea un alias que es una manera facil y dinamica de ejecutar un comando
 
 >git tag -a <nombre del tag> -m "<comentario>" <id log especifico>
-Esto agrega un tag de un version especifica del proyecto
+Esto agrega un tag de una version especifica del proyecto
 
 >git tag
 comando para ver los tags existentes
